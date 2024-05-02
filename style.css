@@ -1,0 +1,685 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    height: 200px;
+    width: 450px;
+    margin-top: 100px;
+}
+
+ul {
+    display: flex;
+    width: 40px;
+    justify-content: space-around;
+    list-style-type: none;
+    gap: 100px;
+    color: black;
+    margin-top: 100px;
+    font-size: 70px;
+    font-weight: 60px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: peachpuff;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.sec {
+    display: flex;
+}
+
+.at {
+    height: 600px;
+    width: 600px;
+}
+
+.a {
+    height: 1900px;
+    width: 2000px;
+    margin-top: 150px;
+    margin-left: 600px;
+
+}
+
+.c {
+    font-size: 200px;
+    font-weight: 210px;
+    margin-left: 2500px;
+    margin-top: 700px;
+    color: rgb(173, 85, 8);
+}
+
+.d {
+    font-size: 200px;
+    font-weight: 210px;
+    margin-left: 2500px;
+    margin-top: 80px;
+}
+
+.lorem {
+    font-size: 70px;
+    font-weight: 50px;
+    margin-left: 2500px;
+    margin-top: 60px;
+}
+
+.btn {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 30%;
+    border: 2px solid transparent;
+    margin-left: 2500px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 60px;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.btn:hover {
+    background-color: lightgrey;
+}
+
+.grey {
+    margin-top: 350px;
+}
+
+.sh {
+    font-size: 160px;
+    font-weight: 250px;
+    color: rgb(173, 85, 8);
+    margin-left: 200px;
+}
+
+.bord {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 3400px;
+    margin-left: 600px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+}
+
+.rem {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.line {
+    font-size: 130px;
+    font-weight: 160px;
+    margin-left: 400px;
+    color: rgb(173, 85, 8);
+}
+
+.br {
+    font-size: 80px;
+    font-weight: 70px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+
+.rup {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.now {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+.now:hover {
+    background-color: lightgrey;
+}
+
+.road {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -2140px;
+    margin-right: 1950px;
+    margin-left: 2000px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+    position: relative;
+
+}
+
+.png {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.skate {
+    font-size: 130px;
+    font-weight: 160px;
+    margin-left: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.dolor {
+    font-size: 80px;
+    font-weight: 70px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+
+.up {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.buy {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 5px;
+
+}
+
+.buy:hover {
+    background-color: lightgrey;
+}
+
+.and {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -2140px;
+    margin-right: 460px;
+    margin-left: 3450px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+    position: relative;
+
+}
+
+.ball {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.bask {
+    font-size: 130px;
+    font-weight: 160px;
+    margin-left: 200px;
+    color: rgb(173, 85, 8);
+}
+
+.amet {
+    font-size: 80px;
+    font-weight: 70px;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+
+.am {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.pm {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+.pm:hover {
+    background-color: lightgrey;
+}
+
+/* .for{
+    background-color: darkgrey;  
+} */
+.formal {
+    font-size: 160px;
+    font-weight: 250px;
+    color: rgb(173, 85, 8);
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.div1 {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 3400px;
+    margin-left: 600px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+}
+
+.prest {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(227, 198, 198);
+}
+
+.cut {
+    font-size: 90px;
+    font-weight: 60px;
+    margin-left: 160px;
+    color: rgb(173, 85, 8);
+    margin-top: 60px;
+}
+
+.ary {
+    font-size: 70px;
+    font-weight: 50px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.dummy {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.clm {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+.clm:hover {
+    background-color: lightgrey;
+}
+
+.div2 {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -2140px;
+    margin-right: 1950px;
+    margin-left: 2000px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+
+}
+
+.src {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(227, 198, 198);
+}
+
+.slip {
+    font-size: 90px;
+    font-weight: 60px;
+    margin-left: 160px;
+    color: rgb(173, 85, 8);
+    margin-top: 60px;
+}
+
+.simply {
+    font-size: 70px;
+    font-weight: 50px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.flex {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.rgb {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+.rgb:hover {
+    background-color: lightgrey;
+}
+
+.div3 {
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -2140px;
+    margin-right: 450px;
+    margin-left: 3450px;
+    box-shadow: 30px 30px 50px 30px grey;
+    background-color: rgb(227, 198, 198);
+}
+
+.alt {
+    height: 900px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: rgb(227, 198, 198);
+}
+
+.as {
+    font-size: 90px;
+    font-weight: 60px;
+    margin-left: 160px;
+    color: rgb(173, 85, 8);
+    margin-top: 60px;
+}
+
+.post {
+    font-size: 70px;
+    font-weight: 50px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.nav {
+    font-size: 110px;
+    font-weight: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
+    color: rgb(173, 85, 8);
+}
+
+.lion {
+    background-color: deepskyblue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+.lion:hover {
+    background-color: lightgrey;
+}
+
+.all {
+    background-color: rgb(229, 221, 221);
+}
+
+.family {
+    border: 1px solid black;
+    border-radius: 2%;
+    margin-top: 200px;
+    margin-right: 3300px;
+    margin-left: 200px;
+    background-color: white;
+}
+
+.fit {
+    font-size: 90px;
+    font-weight: 80px;
+    margin-top: -300px;
+    margin-left: 800px;
+}
+
+.why {
+    font-size: 60px;
+    font-weight: 50px;
+    margin-left: 800px;
+    margin-top: 40px;
+}
+
+.perf {
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.nbhp {
+    border: 1px solid black;
+    border-radius: 2%;
+    margin-top: 150px;
+    margin-right: 3300px;
+    margin-left: 200px;
+    background-color: white;
+}
+
+.flow {
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.git {
+    font-size: 90px;
+    font-weight: 80px;
+    margin-top: -300px;
+    margin-left: 800px;
+}
+
+.up {
+    font-size: 60px;
+    font-weight: 50px;
+    margin-left: 800px;
+    margin-top: 40px;
+    color: black;
+}
+
+.div4 {
+    border: 1px solid black;
+    border-radius: 2%;
+    margin-top: 150px;
+    margin-right: 3300px;
+    margin-left: 200px;
+    background-color: white;
+}
+
+.cont {
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.we {
+    font-size: 90px;
+    font-weight: 80px;
+    margin-top: -300px;
+    margin-left: 800px;
+}
+
+.body {
+    font-size: 60px;
+    font-weight: 50px;
+    margin-left: 800px;
+    margin-top: 40px;
+    color: black;
+}
+
+.go {
+    height: 1500px;
+    width: 2400px;
+    margin-top: -3000px;
+    margin-left: 2700px;
+    position: relative;
+}
+
+.div6 {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+}
+
+.subs {
+    font-size: 120px;
+    font-weight: 100px;
+    margin-left: 1200px;
+    margin-top: 100px;
+}
+
+.email {
+    border: 1px solid black;
+    border-radius: 1%;
+    font-size: 100px;
+    font-weight: 120px;
+    margin-left: 500px;
+    margin-top: 220px;
+}
+.new{
+    background-color: blue;
+    color: black;
+    font-weight: 50px;
+    border-radius: 1%;
+    border: 1px solid transparent;
+    margin-left: 750px;
+    box-shadow: 10px 10px 5px 12px lightblue;
+    font-size: 80px;
+    padding: 20px;
+    margin-top: 180px;
+    margin-bottom: 150px;
+}
+.new:hover{
+    background-color: green;
+}
+.air{
+    /* margin-left: 500px; */
+    background-color: white;
+    /* margin-right: 500px; */
+}
+.fea{
+    font-size: 100px;
+    font-weight: 120px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.holi{
+    font-size: 70px;
+    font-weight: 90px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.jor{
+position: relative;
+margin-top: -800px;
+margin-left: 1500px;
+}
+.dan{
+    font-size: 100px;
+    font-weight: 120px;
+    margin-top: 150px;
+    margin-left: 400px;
+    
+}
+.kitt{
+    font-size: 70px;
+    font-weight: 90px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.td{
+    position: relative;
+    margin-top: -800px;
+    margin-left:2500px;
+}
+.thing{
+    font-size: 100px;
+    font-weight: 120px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.hood{
+    font-size: 70px;
+    font-weight: 90px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.soccer{
+    position: relative;
+    margin-top: -800px;
+    margin-left:3500px;
+}
+.tod{
+    font-size: 100px;
+    font-weight: 120px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.kids{
+    font-size: 70px;
+    font-weight: 90px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.guide{
+    margin-left: 500px;
+}
+.reserve{
+    font-size: 60px;
+    font-weight: 80px;
+    margin-top: 200px;
+    margin-left: 2200px;
+}
